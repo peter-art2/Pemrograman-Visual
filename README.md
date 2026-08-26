@@ -1,2 +1,2 @@
 # Pemrograman-Visual
-About Pemrograman Visual
+Tentang Pemrograman Visual
