@@ -1,8 +1,6 @@
-# Build output folders
+
 bin/
 obj/
-
-# File cache Visual Studio
 .vs/
 *.user
 *.suo
