@@ -1,3 +1,10 @@
+**Nama:** Peter Rangga Situmorang  
+**NIM:** 241712039  
+**KOM:** A2  
+**Catatan 1 Praktikum Pemrograman Visual**
+
+---
+
 # Catatan Pertemuan 1: Pengantar Visual Programming
 
 ## Karakteristik Visual Programming
