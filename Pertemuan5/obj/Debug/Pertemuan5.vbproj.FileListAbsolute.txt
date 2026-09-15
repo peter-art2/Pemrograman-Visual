@@ -1,0 +1,12 @@
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\bin\Debug\Pertemuan5.exe.config
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\bin\Debug\Pertemuan5.exe
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\bin\Debug\Pertemuan5.pdb
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\bin\Debug\Pertemuan5.xml
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.vbproj.AssemblyReference.cache
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.FrmArray.resources
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.Resources.resources
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.vbproj.GenerateResource.cache
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.vbproj.CoreCompileInputs.cache
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.exe
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.xml
+C:\Users\PETER\Downloads\Pemrograman Visual\Pertemuan5\obj\Debug\Pertemuan5.pdb
