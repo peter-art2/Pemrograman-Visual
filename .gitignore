@@ -1,9 +1,9 @@
-# Folder hasil build & cache Visual Studio
+
 bin/
 obj/
 .vs/
 
-# File pengaturan lokal pengguna
+
 *.user
 *.suo
 *.userosscache
